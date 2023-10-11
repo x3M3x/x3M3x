@@ -8,7 +8,7 @@ I'm a passionate Python professional with a focus on automation, integration, an
 - ☁️ AWS Guru: Certified in AWS, I specialize in automation, CloudFormation, Lambda, migration, and solutions architecture.
 - 🛠️ Automation Wizard: I'm on a mission to modernize and streamline processes using the magic of automation.
 - 📦 Docker, Microservices, Kubernetes: I'm well-versed in containerization and orchestration technologies.
-- 💼 Experienced in Jira ITSM, New Relic, Datadog: I'm familiar with tools that help manage and monitor IT services.
+- 💼 Expert in Jira ITSM, New Relic, Datadog: I'm an Expert with tools that help manage and monitor IT services.
 - 🌐 REST APIs & GraphQL: I create efficient data-driven solutions using these technologies.
 - 📊 Data Enthusiast: Skilled in Pandas and NumPy for data engineering and report generation.
 - 📱 Selenium Pro: I'm adept at automated testing with Selenium, ensuring your software is top-notch.
